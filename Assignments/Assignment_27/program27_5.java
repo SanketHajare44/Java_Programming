@@ -1,7 +1,7 @@
 /*  
     Accept number from user and Display below pattern
 
-    Input1 : 4      Input2 : 3
+    Input1 : 4      Input2 : 4
 
     Output :    1   1   1   1
                 2   2   2   2
