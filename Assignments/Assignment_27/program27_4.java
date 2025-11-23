@@ -1,7 +1,7 @@
 /*  
     Accept number from user and Display below pattern
 
-    Input1 : 4      Input2 : 3
+    Input1 : 4      Input2 : 4
 
     Output :    *   #   *   #
                 *   #   *   #
@@ -64,4 +64,4 @@ class program27_4
         
     }
 
-}// End of program26_5 class
+}// End of program27_4 class
