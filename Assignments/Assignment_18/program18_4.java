@@ -25,7 +25,7 @@ class Logic
             }
         }
 
-        System.out.print(iEven " ");
+        System.out.print(iEven+" ");
         System.out.print(iOdd);
    }
 
