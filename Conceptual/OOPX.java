@@ -25,6 +25,7 @@ class Arithematic
         iAns = this.iNo1 - this.iNo2;
         return iAns;
     }
+    
 }
 
 class OOPX
