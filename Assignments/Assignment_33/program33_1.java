@@ -23,6 +23,7 @@ class StringX
             return false;
         }
     }
+    
 
 }// End of Stirngx class
 
