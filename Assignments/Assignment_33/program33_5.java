@@ -61,6 +61,10 @@ class program33_5
 
         strobj.DisplaySchedular(cValue);
 
+        strobj = null;
+        
+        sobj.close();
+
     }
 }// End of program33_5 class
 
