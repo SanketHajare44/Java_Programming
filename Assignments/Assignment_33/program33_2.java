@@ -14,6 +14,7 @@ class StringX
 {   
     boolean ChkCapital(char ch)
     {
+        
         if((ch >= 'A' && ch <= 'Z'))
         {
             return true;
