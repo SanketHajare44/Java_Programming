@@ -60,6 +60,7 @@ class program33_3
         }
 
         strobj = null;
+        
         sobj.close();
 
     }
