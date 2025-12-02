@@ -13,6 +13,7 @@ class Derived extends Base      // Error
 
 }
 
+
 class AbstractDemo2
 {
     public static void main(String A[])
