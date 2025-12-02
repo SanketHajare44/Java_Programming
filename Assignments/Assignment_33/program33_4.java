@@ -58,6 +58,9 @@ class program33_4
             System.out.println("It is not a small case character");
         }
 
+        strobj = null;
+        sobj.close();
+
     }
 }// End of program33_4 class
 
