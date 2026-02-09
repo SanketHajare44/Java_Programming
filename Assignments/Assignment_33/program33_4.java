@@ -18,11 +18,7 @@ class StringX
         {
             return true;
         }
-        else if((ch >= 'A' && ch <= 'Z'))
-        {
-            return false;
-        }
-        else
+        else((ch >= 'A' && ch <= 'Z'))
         {
             return false;
         }
