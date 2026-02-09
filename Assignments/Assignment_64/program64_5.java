@@ -6,6 +6,7 @@ class program64_5
 {
     public static void main(String A[])
     {
+        
         int No = 0;
         int iMask = 0x00000001;
         int iResult = 0;
